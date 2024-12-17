@@ -52,6 +52,28 @@ export default function Home() {
             />
           </a>
           <a 
+            href="https://www.accel-kkr.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src="/akkr_logo.png" 
+              alt="Accel KKR Logo" 
+              className="h-6"
+            />
+          </a>
+          <a 
+            href="https://www.accel-kkr.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src="/battery_logo.png" 
+              alt="Battery Ventures Logo" 
+              className="h-6"
+            />
+          </a>
+          <a 
             href="https://neo.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -59,7 +81,7 @@ export default function Home() {
             <img 
               src="/neo_logo.svg" 
               alt="Neo Logo" 
-              className="h-6"
+              className="h-5"
             />
           </a>
           <a 
