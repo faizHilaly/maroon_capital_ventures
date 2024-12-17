@@ -63,7 +63,7 @@ export default function Home() {
             />
           </a>
           <a 
-            href="https://www.accel-kkr.com/"
+            href="https://www.battery.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
