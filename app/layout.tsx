@@ -22,6 +22,7 @@ export default function RootLayout({
       <head>
         <title>Maroon Capital Ventures</title>
         <meta name="description" content="" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className="font-['Palatino']">
         {children}
