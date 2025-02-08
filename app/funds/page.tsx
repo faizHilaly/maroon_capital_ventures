@@ -15,7 +15,7 @@ export default function Fund() {
             $100,000 investment fund to partner with technical teams going 0 {'->'} 1
           </p>
           <a 
-            href="https://55w5873zbph.typeform.com/to/OL0FsKAz" 
+            href="" 
             className={`${palanquin.className} text-[#CBB595] hover:underline`}
             target="_blank"
             rel="noopener noreferrer"
@@ -29,10 +29,10 @@ export default function Fund() {
         <div className="text-center w-[480px]">
           <h2 className={`${palanquin.className} text-[#CBB595] mb-4`}>Freestyle Fund</h2>
           <p className={`${palanquin.className} text-[#CBB595] mb-8`}>
-            $30,000 in equity-free grants for engineers, builders, and researchers to go deep on projects they're passionate about
+            $30,000 in equity-free grants and credits so you can just build
           </p>
           <a 
-            href="https://55w5873zbph.typeform.com/to/OL0FsKAz" 
+            href="" 
             className={`${palanquin.className} text-[#CBB595] hover:underline`}
             target="_blank"
             rel="noopener noreferrer"

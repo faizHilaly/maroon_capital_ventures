@@ -39,12 +39,6 @@ export default function RootLayout({
           >
             Funds
           </Link>
-          <Link 
-            href="/apply" 
-            className={pathname === '/apply' ? 'text-[#A38550] hover:underline' : 'text-[#CBB595] hover:underline'}
-          >
-            Apply
-          </Link>
         </nav>
         {isNotHome && (
           <div className="fixed bottom-8 left-1/2 -translate-x-1/2 font-['Palatino'] mb-[-0.2em]">
