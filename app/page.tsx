@@ -16,8 +16,8 @@ export default function Home() {
         </div>
       </div>
       <div className="flex flex-col items-center mb-20">
-        <h2 className={`${palanquin.className} text-[#CBB595] mb-8`}>Partner Firms</h2>
-        <div className="flex gap-12 justify-center">
+        <h2 className={`${palanquin.className} text-[#CBB595] mb-6`}>Partner Firms</h2>
+        <div className="flex gap-10 justify-center">
           <a 
             href="https://greylock.com/"
             target="_blank"
@@ -26,7 +26,7 @@ export default function Home() {
             <img 
               src="/greylock_logo.svg" 
               alt="Greylock Partners Logo" 
-              className="h-8"
+              className="h-7"
             />
           </a>
           <a 
@@ -37,7 +37,7 @@ export default function Home() {
             <img 
               src="/bcv_logo.svg" 
               alt="Bain Capital Ventures Logo" 
-              className="h-8"
+              className="h-7"
             />
           </a>
         </div>
