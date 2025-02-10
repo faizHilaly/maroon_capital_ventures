@@ -12,7 +12,7 @@ export default function Fund() {
         <div className="text-center w-[490px]">
           <h2 className={`${palanquin.className} text-[#CBB595] mb-4`}>v0 Fund</h2>
           <p className={`${palanquin.className} text-[#CBB595] mb-8`}>
-            $100,000 investment fund to partner with technical teams going 0 {'->'} 1
+            investment fund to partner with technical teams going 0 {'->'} 1
           </p>
           <a 
             href="" 
@@ -29,7 +29,7 @@ export default function Fund() {
         <div className="text-center w-[480px]">
           <h2 className={`${palanquin.className} text-[#CBB595] mb-4`}>Freestyle Fund</h2>
           <p className={`${palanquin.className} text-[#CBB595] mb-8`}>
-            $30,000 in equity-free grants and credits so you can just build
+            equity-free grants and credits so you can just build
           </p>
           <a 
             href="" 
