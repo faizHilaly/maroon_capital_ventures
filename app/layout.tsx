@@ -39,6 +39,14 @@ export default function RootLayout({
           >
             Funds
           </Link>
+          <Link 
+            href="https://maroonhacks.com/" 
+            className={pathname === '/hacks' ? 'text-[#A38550] hover:underline' : 'text-[#CBB595] hover:underline'}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Hacks
+          </Link>
         </nav>
         {isNotHome && (
           <div className="fixed bottom-8 left-1/2 -translate-x-1/2 font-['Palatino'] mb-[-0.2em]">
