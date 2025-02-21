@@ -19,17 +19,6 @@ export default function Home() {
         <h2 className={`${palanquin.className} text-[#CBB595] mb-3 sm:mb-4 text-sm sm:text-base`}>Partner Firms</h2>
         <div className="flex gap-6 sm:gap-8 justify-center">
           <a 
-            href="https://greylock.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <img 
-              src="/greylock_logo.svg" 
-              alt="Greylock Partners Logo" 
-              className="h-6 sm:h-8"
-            />
-          </a>
-          <a 
             href="https://baincapitalventures.com/"
             target="_blank"
             rel="noopener noreferrer"
@@ -37,6 +26,28 @@ export default function Home() {
             <img 
               src="/bcv_logo.svg" 
               alt="Bain Capital Ventures Logo" 
+              className="h-6 sm:h-8"
+            />
+          </a>
+          <a 
+            href="https://www.drivecapital.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src="/drive_logo.svg" 
+              alt="Drive Capital Logo" 
+              className="h-5 sm:h-7"
+            />
+          </a>
+          <a 
+            href="https://greylock.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img 
+              src="/greylock_logo.svg" 
+              alt="Greylock Partners Logo" 
               className="h-6 sm:h-8"
             />
           </a>

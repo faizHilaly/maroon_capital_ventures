@@ -45,7 +45,7 @@ export default function RootLayout({
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hacks
+            MaroonHacks
           </Link>
         </nav>
         {isNotHome && (
