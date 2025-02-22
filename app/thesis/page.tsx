@@ -13,7 +13,7 @@ export default function Thesis() {
           We believe in builders
         </p>
         <p className={`${palanquin.className} text-[#CBB595]`}>
-        MCV connects deeply technical students with the capital to build great things and the expertise to pursue great careers
+        MCV connects deeply technical students with the capital and expertise to build great things
         </p>
       </div>
     </div>
