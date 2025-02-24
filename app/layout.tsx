@@ -45,7 +45,7 @@ export default function RootLayout({
             target="_blank"
             rel="noopener noreferrer"
           >
-            MaroonHacks
+            Maroon Hacks
           </Link>
         </nav>
         {isNotHome && (
@@ -55,11 +55,6 @@ export default function RootLayout({
             </Link>
           </div>
         )}
-        <div className={`${palanquin.className} fixed bottom-8 right-8`}>
-          <a href="mailto:team@marooncapitalventures.com" className="text-[#CBB595] hover:underline">
-            team@marooncapitalventures.com
-          </a>
-        </div>
       </body>
     </html>
   );
