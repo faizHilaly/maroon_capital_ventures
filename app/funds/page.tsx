@@ -20,7 +20,7 @@ export default function Fund() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Apply
+            
           </a>
         </div>
       </div>
@@ -32,7 +32,7 @@ export default function Fund() {
             Equity-free grants and credits so you can just build
           </p>
           <a 
-            href="" 
+            href="https://55w5873zbph.typeform.com/to/j3MJZ6yp" 
             className={`${palanquin.className} text-[#CBB595] hover:underline`}
             target="_blank"
             rel="noopener noreferrer"
