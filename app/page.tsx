@@ -16,12 +16,13 @@ export default function Home() {
         </div>
       </div>
       <div className="flex flex-col items-center mb-10 sm:mb-20">
-        <h2 className={`${palanquin.className} text-[#CBB595] mb-3 sm:mb-4 text-sm sm:text-base`}>Partner Firms</h2>
-        <div className="flex gap-6 sm:gap-8 justify-center">
+        <h2 className={`${palanquin.className} text-[#CBB595] mb-1 text-sm sm:text-base`}>Partner Firms</h2>
+        <div className="flex items-center gap-6 sm:gap-8 justify-center">
           <a 
             href="https://baincapitalventures.com/"
             target="_blank"
             rel="noopener noreferrer"
+            className="flex items-center"
           >
             <img 
               src="/bcv_logo.svg" 
@@ -49,6 +50,18 @@ export default function Home() {
               src="/greylock_logo.svg" 
               alt="Greylock Partners Logo" 
               className="h-6 sm:h-8"
+            />
+          </a>
+          <a 
+            href="https://www.permanent-capital.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center"
+          >
+            <img 
+              src="/permanent_capital_logo.png" 
+              alt="Permanent Capital Logo" 
+              className="h-18 sm:h-24"
             />
           </a>
         </div>
