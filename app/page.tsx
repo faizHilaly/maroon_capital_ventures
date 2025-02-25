@@ -15,7 +15,7 @@ export default function Home() {
           </h1>
         </div>
       </div>
-      <div className="flex flex-col items-center mb-10 sm:mb-20">
+      <div className="flex flex-col items-center mb-10 sm:mb-20 translate-y-5">
         <h2 className={`${palanquin.className} text-[#CBB595] mb-1 text-sm sm:text-base`}>Partner Firms</h2>
         <div className="flex items-center gap-6 sm:gap-8 justify-center">
           <a 
