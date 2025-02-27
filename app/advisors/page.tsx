@@ -32,7 +32,7 @@ export default function Advisors() {
     {
       name: "Mike Gamson",
       title: "Founding Partner, Permanent Capital",
-      bio: "Mike founded Permanent Capital in 2024, a Chicago-based firm partnering with early-stage companies as they go-to-market. Previously, Mike was CEO of Relativity (the largest software company in Chicago) and ran sales teams at Linkedin.",
+      bio: "Mike founded Permanent Capital in 2024, a Chicago-based firm partnering with early-stage companies as they go to market. Previously, Mike was CEO of Relativity (the largest software company in Chicago) and ran sales teams at Linkedin.",
       imageUrl: "/mike_headshot.jpg",
       linkedin: "https://www.linkedin.com/in/mikegamson/"
     }
